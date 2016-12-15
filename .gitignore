@@ -1,0 +1,11 @@
+# --- Ignore files
+.htaccess
+.DS_Store
+._.DS_Store
+
+# --- Ignore all files in the directories:
+build/
+.idea/
+idea/
+cache/*/*
+node_modules/
